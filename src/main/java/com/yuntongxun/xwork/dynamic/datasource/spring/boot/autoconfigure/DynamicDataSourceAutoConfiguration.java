@@ -33,7 +33,6 @@ import java.util.Map;
  * @see DynamicDataSourceProvider
  * @see DynamicDataSourceStrategy
  * @see DynamicRoutingDataSource
- * @since 1.0.0
  */
 @Slf4j
 @Configuration
